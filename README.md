@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vvder
 - 👀 I’m interested in game
 - 🌱 I’m currently learning C/C++/C# python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 1049391502@qq.com
 
 <!---
